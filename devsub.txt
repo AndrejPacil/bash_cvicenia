@@ -1,0 +1,160 @@
+total 0
+crw-r--r--  1 root    root     10, 235 Apr 18 11:30 autofs
+drwxr-xr-x  2 root    root         140 Apr 18 12:17 block
+drwxr-xr-x  2 root    root          80 Apr 18 11:30 bsg
+crw-------  1 root    root     10, 234 Apr 18 11:30 btrfs-control
+drwxr-xr-x  3 root    root          60 Apr 18 11:30 bus
+lrwxrwxrwx  1 root    root           3 Apr 18 11:30 cdrom -> sr0
+drwxr-xr-x  2 root    root        3020 Apr 18 11:31 char
+crw-------  1 root    root      5,   1 Apr 18 11:30 console
+lrwxrwxrwx  1 root    root          11 Apr 18 11:30 core -> /proc/kcore
+drwxr-xr-x  5 root    root         100 Apr 18 11:30 cpu
+crw-------  1 root    root     10, 259 Apr 18 11:30 cpu_dma_latency
+crw-------  1 root    root     10, 203 Apr 18 11:30 cuse
+drwxr-xr-x  8 root    root         160 Apr 18 11:30 disk
+drwxr-xr-x  2 root    root          60 Apr 18 11:31 dma_heap
+drwxr-xr-x  3 root    root         100 Apr 18 11:30 dri
+crw-rw----  1 root    video    29,   0 Apr 18 11:30 fb0
+lrwxrwxrwx  1 root    root          13 Apr 18 11:30 fd -> /proc/self/fd
+crw-rw-rw-  1 root    root      1,   7 Apr 18 11:30 full
+crw-rw-rw-  1 root    root     10, 229 Apr 18 12:25 fuse
+crw-------  1 root    root    245,   0 Apr 18 11:30 hidraw0
+crw-------  1 root    root     10, 228 Apr 18 11:30 hpet
+drwxr-xr-x  2 root    root           0 Apr 18 11:30 hugepages
+crw-------  1 root    root     10, 183 Apr 18 11:30 hwrng
+lrwxrwxrwx  1 root    root          12 Apr 18 11:30 initctl -> /run/initctl
+drwxr-xr-x  4 root    root         360 Apr 18 11:30 input
+crw-r--r--  1 root    root      1,  11 Apr 18 11:30 kmsg
+lrwxrwxrwx  1 root    root          28 Apr 18 11:30 log -> /run/systemd/journal/dev-log
+crw-rw----  1 root    disk     10, 237 Apr 18 12:25 loop-control
+drwxr-xr-x  2 root    root          60 Apr 18 11:30 mapper
+crw-r-----  1 root    kmem      1,   1 Apr 18 11:30 mem
+drwxrwxrwt  2 root    root          40 Apr 18 11:31 mqueue
+drwxr-xr-x  2 root    root          60 Apr 18 11:30 net
+crw-rw-rw-  1 root    root      1,   3 Apr 18 11:30 null
+crw-------  1 root    root     10, 144 Apr 18 11:30 nvram
+crw-r-----  1 root    kmem      1,   4 Apr 18 11:30 port
+crw-------  1 root    root    108,   0 Apr 18 11:30 ppp
+crw-------  1 root    root     10,   1 Apr 18 11:30 psaux
+crw-rw-rw-  1 root    tty       5,   2 Apr 18 12:31 ptmx
+drwxr-xr-x  2 root    root           0 Apr 18 11:30 pts
+crw-rw-rw-  1 root    root      1,   8 Apr 18 11:30 random
+crw-rw-r--+ 1 root    netdev   10, 242 Apr 18 11:30 rfkill
+lrwxrwxrwx  1 root    root           4 Apr 18 11:30 rtc -> rtc0
+crw-------  1 root    root    249,   0 Apr 18 11:30 rtc0
+brw-rw----  1 root    disk      8,   0 Apr 18 11:30 sda
+brw-rw----  1 root    disk      8,   1 Apr 18 12:17 sda1
+brw-rw----  1 root    disk      8,   2 Apr 18 12:17 sda2
+brw-rw----  1 root    disk      8,   5 Apr 18 12:17 sda5
+crw-rw----+ 1 root    cdrom    21,   0 Apr 18 11:30 sg0
+crw-rw----  1 root    disk     21,   1 Apr 18 11:30 sg1
+drwxrwxrwt  2 root    root          40 Apr 18 11:30 shm
+crw-------  1 root    root     10, 231 Apr 18 11:30 snapshot
+drwxr-xr-x  3 root    root         180 Apr 18 11:30 snd
+brw-rw----+ 1 root    cdrom    11,   0 Apr 18 11:30 sr0
+lrwxrwxrwx  1 root    root          15 Apr 18 11:30 stderr -> /proc/self/fd/2
+lrwxrwxrwx  1 root    root          15 Apr 18 11:30 stdin -> /proc/self/fd/0
+lrwxrwxrwx  1 root    root          15 Apr 18 11:30 stdout -> /proc/self/fd/1
+crw-rw-rw-  1 root    tty       5,   0 Apr 18 11:30 tty
+crw-------  1 root    tty       4,   0 Apr 18 11:30 tty0
+crw-------  1 andrej  tty       4,   1 Apr 18 11:32 tty1
+crw-------  1 root    tty       4,  10 Apr 18 11:30 tty10
+crw-------  1 root    tty       4,  11 Apr 18 11:30 tty11
+crw-------  1 root    tty       4,  12 Apr 18 11:30 tty12
+crw-------  1 root    tty       4,  13 Apr 18 11:30 tty13
+crw-------  1 root    tty       4,  14 Apr 18 11:30 tty14
+crw-------  1 root    tty       4,  15 Apr 18 11:30 tty15
+crw-------  1 root    tty       4,  16 Apr 18 11:30 tty16
+crw-------  1 root    tty       4,  17 Apr 18 11:30 tty17
+crw-------  1 root    tty       4,  18 Apr 18 11:30 tty18
+crw-------  1 root    tty       4,  19 Apr 18 11:30 tty19
+crw-------  1 root    tty       4,   2 Apr 18 11:30 tty2
+crw-------  1 root    tty       4,  20 Apr 18 11:30 tty20
+crw-------  1 root    tty       4,  21 Apr 18 11:30 tty21
+crw-------  1 root    tty       4,  22 Apr 18 11:30 tty22
+crw-------  1 root    tty       4,  23 Apr 18 11:30 tty23
+crw-------  1 root    tty       4,  24 Apr 18 11:30 tty24
+crw-------  1 root    tty       4,  25 Apr 18 11:30 tty25
+crw-------  1 root    tty       4,  26 Apr 18 11:30 tty26
+crw-------  1 root    tty       4,  27 Apr 18 11:30 tty27
+crw-------  1 root    tty       4,  28 Apr 18 11:30 tty28
+crw-------  1 root    tty       4,  29 Apr 18 11:30 tty29
+crw-------  1 root    tty       4,   3 Apr 18 11:30 tty3
+crw-------  1 root    tty       4,  30 Apr 18 11:30 tty30
+crw-------  1 root    tty       4,  31 Apr 18 11:30 tty31
+crw-------  1 root    tty       4,  32 Apr 18 11:30 tty32
+crw-------  1 root    tty       4,  33 Apr 18 11:30 tty33
+crw-------  1 root    tty       4,  34 Apr 18 11:30 tty34
+crw-------  1 root    tty       4,  35 Apr 18 11:30 tty35
+crw-------  1 root    tty       4,  36 Apr 18 11:30 tty36
+crw-------  1 root    tty       4,  37 Apr 18 11:30 tty37
+crw-------  1 root    tty       4,  38 Apr 18 11:30 tty38
+crw-------  1 root    tty       4,  39 Apr 18 11:30 tty39
+crw-------  1 root    tty       4,   4 Apr 18 11:30 tty4
+crw-------  1 root    tty       4,  40 Apr 18 11:30 tty40
+crw-------  1 root    tty       4,  41 Apr 18 11:30 tty41
+crw-------  1 root    tty       4,  42 Apr 18 11:30 tty42
+crw-------  1 root    tty       4,  43 Apr 18 11:30 tty43
+crw-------  1 root    tty       4,  44 Apr 18 11:30 tty44
+crw-------  1 root    tty       4,  45 Apr 18 11:30 tty45
+crw-------  1 root    tty       4,  46 Apr 18 11:30 tty46
+crw-------  1 root    tty       4,  47 Apr 18 11:30 tty47
+crw-------  1 root    tty       4,  48 Apr 18 11:30 tty48
+crw-------  1 root    tty       4,  49 Apr 18 11:30 tty49
+crw-------  1 root    tty       4,   5 Apr 18 11:30 tty5
+crw-------  1 root    tty       4,  50 Apr 18 11:30 tty50
+crw-------  1 root    tty       4,  51 Apr 18 11:30 tty51
+crw-------  1 root    tty       4,  52 Apr 18 11:30 tty52
+crw-------  1 root    tty       4,  53 Apr 18 11:30 tty53
+crw-------  1 root    tty       4,  54 Apr 18 11:30 tty54
+crw-------  1 root    tty       4,  55 Apr 18 11:30 tty55
+crw-------  1 root    tty       4,  56 Apr 18 11:30 tty56
+crw-------  1 root    tty       4,  57 Apr 18 11:30 tty57
+crw-------  1 root    tty       4,  58 Apr 18 11:30 tty58
+crw-------  1 root    tty       4,  59 Apr 18 11:30 tty59
+crw-------  1 root    tty       4,   6 Apr 18 11:30 tty6
+crw-------  1 root    tty       4,  60 Apr 18 11:30 tty60
+crw-------  1 root    tty       4,  61 Apr 18 11:30 tty61
+crw-------  1 root    tty       4,  62 Apr 18 11:30 tty62
+crw-------  1 root    tty       4,  63 Apr 18 11:30 tty63
+crw-------  1 root    tty       4,   7 Apr 18 11:30 tty7
+crw-------  1 root    tty       4,   8 Apr 18 11:30 tty8
+crw-------  1 root    tty       4,   9 Apr 18 11:30 tty9
+crw-rw----  1 root    dialout   4,  64 Apr 18 11:30 ttyS0
+crw-rw----  1 root    dialout   4,  65 Apr 18 11:30 ttyS1
+crw-rw----  1 root    dialout   4,  66 Apr 18 11:30 ttyS2
+crw-rw----  1 root    dialout   4,  67 Apr 18 11:30 ttyS3
+crw-rw----+ 1 root    kvm      10, 258 Apr 18 11:30 udmabuf
+crw-------  1 root    root     10, 239 Apr 18 11:30 uhid
+crw-------  1 root    root     10, 223 Apr 18 11:30 uinput
+crw-rw-rw-  1 root    root      1,   9 Apr 18 11:30 urandom
+crw-------  1 root    root     10, 257 Apr 18 11:30 userfaultfd
+crw-rw----  1 vboxadd root     10, 260 Apr 18 11:30 vboxguest
+crw-rw-rw-  1 vboxadd root     10, 261 Apr 18 11:30 vboxuser
+crw-rw----  1 root    tty       7,   0 Apr 18 11:30 vcs
+crw-rw----  1 root    tty       7,   1 Apr 18 11:30 vcs1
+crw-rw----  1 root    tty       7,   2 Apr 18 11:30 vcs2
+crw-rw----  1 root    tty       7,   3 Apr 18 11:30 vcs3
+crw-rw----  1 root    tty       7,   4 Apr 18 11:30 vcs4
+crw-rw----  1 root    tty       7,   5 Apr 18 11:30 vcs5
+crw-rw----  1 root    tty       7,   6 Apr 18 11:30 vcs6
+crw-rw----  1 root    tty       7, 128 Apr 18 11:30 vcsa
+crw-rw----  1 root    tty       7, 129 Apr 18 11:30 vcsa1
+crw-rw----  1 root    tty       7, 130 Apr 18 11:30 vcsa2
+crw-rw----  1 root    tty       7, 131 Apr 18 11:30 vcsa3
+crw-rw----  1 root    tty       7, 132 Apr 18 11:30 vcsa4
+crw-rw----  1 root    tty       7, 133 Apr 18 11:30 vcsa5
+crw-rw----  1 root    tty       7, 134 Apr 18 11:30 vcsa6
+crw-rw----  1 root    tty       7,  64 Apr 18 11:30 vcsu
+crw-rw----  1 root    tty       7,  65 Apr 18 11:30 vcsu1
+crw-rw----  1 root    tty       7,  66 Apr 18 11:30 vcsu2
+crw-rw----  1 root    tty       7,  67 Apr 18 11:30 vcsu3
+crw-rw----  1 root    tty       7,  68 Apr 18 11:30 vcsu4
+crw-rw----  1 root    tty       7,  69 Apr 18 11:30 vcsu5
+crw-rw----  1 root    tty       7,  70 Apr 18 11:30 vcsu6
+drwxr-xr-x  2 root    root          60 Apr 18 11:30 vfio
+crw-------  1 root    root     10, 256 Apr 18 11:30 vga_arbiter
+crw-------  1 root    root     10, 137 Apr 18 11:30 vhci
+crw-rw----  1 root    kvm      10, 238 Apr 18 12:25 vhost-net
+crw-rw----  1 root    kvm      10, 241 Apr 18 12:25 vhost-vsock
+crw-rw-rw-  1 root    root      1,   5 Apr 18 11:30 zero
