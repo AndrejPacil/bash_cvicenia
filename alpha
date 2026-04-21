@@ -1,0 +1,84 @@
+total 2840
+ 2227 drwxrwxr-x  6 andrej andrej    4096 Apr 20 12:55 .
+ 2445 drwx------ 30 andrej andrej    4096 Apr 20 12:53 ..
+ 9087 -rw-rw-r--  1 andrej andrej       0 Apr 18 12:41 1
+12521 -rw-rw-r--  1 andrej andrej      28 Apr 17 17:51 10.sh
+12520 -rw-rw-r--  1 andrej andrej      17 Apr 17 17:57 11.sh
+12517 -rw-rw-r--  1 andrej andrej      47 Apr 17 18:11 15.sh
+12486 -rw-rw-r--  1 andrej andrej      36 Apr 17 18:12 16.sh
+12526 -rw-rw-r--  1 andrej andrej     109 Apr 17 18:19 17.sh
+12522 drwxrwxr-x 12 andrej andrej    4096 Apr 17 19:28 18_output
+12546 -rw-rw-r--  1 andrej andrej     103 Apr 17 19:40 19.sh
+ 1881 -rw-rw-r--  1 andrej andrej      61 Apr 17 15:06 1.sh
+12590 -rw-rw-r--  1 andrej andrej       0 Apr 18 12:41 2
+12542 -rw-rw-r--  1 andrej andrej      96 Apr 17 19:42 20.sh
+12547 -rw-rw-r--  1 andrej andrej     144 Apr 17 20:58 21.sh
+12554 -rw-rw-r--  1 andrej andrej     139 Apr 17 21:27 22.sh
+12563 -rw-rw-r--  1 andrej andrej      84 Apr 17 21:48 23.sh
+12543 -rw-rw-r--  1 andrej andrej      56 Apr 17 21:58 24.sh
+ 8653 drwxrwxr-x  5 andrej andrej    4096 Apr 17 22:37 25_files
+12568 -rw-rw-r--  1 andrej andrej     134 Apr 17 22:41 25.sh
+12572 -rw-rw-r--  1 andrej andrej      58 Apr 17 22:53 26.sh
+12576 -rw-rw-r--  1 andrej andrej     163 Apr 17 23:29 27.sh
+12525 -rw-------  1 andrej andrej   12288 Apr 17 23:13 .27.sh.swp
+12583 -rw-rw-r--  1 andrej andrej     323 Apr 18 12:01 28.sh
+12585 -rw-rw-r--  1 andrej andrej     106 Apr 18 12:06 29.sh
+12530 -rw-rw-r--  1 andrej andrej      64 Apr 17 15:11 2.sh
+12591 -rw-rw-r--  1 andrej andrej       0 Apr 18 12:41 3
+12586 -rw-rw-r--  1 andrej andrej     371 Apr 18 12:31 30.sh
+12592 -rw-rw-r--  1 andrej andrej     189 Apr 18 12:43 31.sh
+12527 -rw-rw-r--  1 andrej andrej     410 Apr 18 14:14 32.sh
+12593 -rw-rw-r--  1 andrej andrej     190 Apr 18 15:05 33.sh
+12614 -rw-rw-r--  1 andrej andrej      97 Apr 18 15:16 34.sh
+12514 -rw-rw-r--  1 andrej andrej     130 Apr 18 15:50 35.sh
+12616 -rw-rw-r--  1 andrej andrej      71 Apr 18 15:56 36.sh
+12619 -rw-rw-r--  1 andrej andrej      85 Apr 18 16:02 37.sh
+12587 -rw-rw-r--  1 andrej andrej     117 Apr 18 16:26 38.sh
+ 9281 -rw-rw-r--  1 andrej andrej     125 Apr 18 17:10 39.sh
+ 9264 -rw-rw-r--  1 andrej andrej      91 Apr 17 15:16 3.sh
+12608 -rw-rw-r--  1 andrej andrej     258 Apr 18 19:44 40.sh
+12625 -rw-rw-r--  1 andrej andrej     155 Apr 18 19:51 41.sh
+12626 -rw-rw-r--  1 andrej andrej      59 Apr 18 20:02 42.sh
+12620 -rw-------  1 andrej andrej   12288 Apr 18 20:02 .42.sh.swp
+12544 -rw-rw-r--  1 andrej andrej      46 Apr 19 15:09 43.sh
+12623 -rw-rw-r--  1 andrej andrej      44 Apr 19 15:15 44.sh
+ 8929 -rw-rw-r--  1 andrej andrej      60 Apr 19 15:18 45.sh
+12610 -rw-rw-r--  1 andrej andrej     101 Apr 19 15:37 46.sh
+ 9252 -rw-rw-r--  1 andrej andrej     195 Apr 19 17:09 47.sh
+ 3553 -rw-rw-r--  1 andrej andrej     169 Apr 19 17:25 48.sh
+12627 -rw-rw-r--  1 andrej andrej     163 Apr 20 10:27 49.sh
+ 8964 -rw-rw-r--  1 andrej andrej     170 Apr 17 15:42 4.sh
+12647 -rw-rw-r--  1 andrej andrej     220 Apr 20 12:20 50.sh
+12653 -rw-rw-r--  1 andrej andrej      70 Apr 20 12:24 51.sh
+12519 -rw-------  1 andrej andrej   12288 Apr 20 12:54 .52.sh.swp
+12516 -r-xrw-r--  1 root   users        0 Apr 17 20:55 5445665
+12533 -rw-rw-r--  1 andrej andrej      88 Apr 17 15:45 5.sh
+12535 -rw-rw-r--  1 andrej andrej      35 Apr 17 15:53 6.sh
+12538 -rw-rw-r--  1 andrej andrej      51 Apr 17 16:02 7.sh
+12528 -rw-rw-r--  1 andrej andrej     256 Apr 17 18:24 8.sh
+ 9263 -rw-rw-r--  1 andrej andrej     143 Apr 17 17:49 9.sh
+12594 -rw-rw-r--  1 andrej andrej       0 Apr 18 12:43 A
+12612 -rw-rw-r--  1 andrej andrej       0 Apr 18 16:01 a1
+12604 drwxrwxr-x  2 andrej andrej    4096 Apr 18 13:55 aj
+12607 -rw-rw-r--  1 andrej andrej       0 Apr 20 12:55 alpha
+12595 -rw-rw-r--  1 andrej andrej       0 Apr 18 12:43 B
+12596 -rw-rw-r--  1 andrej andrej       0 Apr 18 12:43 C
+12600 -rw-rw-r--  1 andrej andrej   10240 Apr 18 13:06 dalsi
+12588 -rw-rw-r--  1 andrej andrej    9386 Apr 18 12:31 devsub.txt
+12580 -rw-rw-r--  1 andrej andrej    1224 Apr 18 12:29 devsub.txt.xz
+12589 -rw-rw-r--  1 andrej andrej     118 Apr 18 13:29 esteraz.gz
+12602 -rw-rw-r--  1 andrej andrej   10240 Apr 18 13:58 fuj
+12555 -rw-rw-r--  1 andrej andrej      16 Apr 17 21:17 hej
+12642 -rw-rw-r--  1 andrej andrej     111 Apr 19 17:47 loginy
+ 2234 dr-xrw-r--  2 root   users     4096 Apr 17 19:39 my dir
+ 8609 -rw-rw-r--  1 andrej andrej       0 Apr 18 11:53 pes.txt
+12621 -rw-r--r--  1 root   root   2540265 Apr 18 19:24 root_files_audit.txt
+12545 -rw-rw-r--  1 andrej andrej       5 Apr 17 19:39 .secret
+12613 -rw-rw-r--  1 andrej andrej    2591 Apr 18 15:16 settings.txt
+12638 -rwxrwxr-x  1 andrej andrej     145 Apr 20 12:52 skript_odstranenie_kosa.sh
+12575 -rw-rw-r--  1 andrej andrej   10240 Apr 18 13:05 skuska
+12582 -rw-rw-r--  1 andrej andrej      60 Apr 18 12:01 stat_txt
+12597 -rw-rw-r--  1 andrej andrej     744 Apr 18 12:43 subory.zip
+12581 -rw-rw-r--  1 andrej andrej   10240 Apr 18 13:27 testik
+12523 -rw-rw-r--  1 andrej andrej     724 Apr 18 12:06 UPPER_CASE.txt
+12611 -rw-rw-r--  1 andrej andrej    1613 Apr 18 15:04 zoradene.txt
